@@ -1,0 +1,21 @@
+{
+  "name": "excelimport",
+  "homepage": "https://github.com/1044007286/excelimport",
+  "authors": [
+    "hsl <1044007286@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "excelimport"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
