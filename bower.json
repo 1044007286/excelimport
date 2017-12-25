@@ -4,7 +4,8 @@
   "authors": [
     "hsl <1044007286@qq.com>"
   ],
-  "description": "",
+  "description": "public/lib",
+  "version": "0.0.0",
   "main": "",
   "keywords": [
     "excelimport"
